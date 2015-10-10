@@ -1,5 +1,11 @@
-# BYMT 2.x
+# BYMT 2
 
-WordPress 主题 BYMT 3.0 内测版已发布，如果您有内测资格麦葱会将新版发给您的。
+BYMT 2 已经开源，当前最新版本: `2.1.1`
 
-BYMT 3.0 正式版这个月会发布！随后2.X 版本会在此开源！敬请期待！
+## 说明
+
+请参阅： (https://maicong.me/2013-08-03-wordpress-theme-bymt.html)[https://maicong.me/2013-08-03-wordpress-theme-bymt.html]
+
+## 版权
+
+The MIT License (MIT)
